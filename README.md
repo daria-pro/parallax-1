@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img width="1053" alt="image" src="https://github.com/daria-pro/parallax-1/assets/83208608/70ebc359-e566-4881-9a08-1d516e4a815c">
+
 
 ## Getting Started
 
